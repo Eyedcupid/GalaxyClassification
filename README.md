@@ -1,5 +1,4 @@
 # The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques
-[![GitHub](https://img.shields.io/github/license/ezrafielding/GalaxyClassification)](https://github.com/ezrafielding/GalaxyClassification/blob/main/LICENSE) [![Website](https://img.shields.io/website?down_message=unavailable&up_color=blue&up_message=view%20here&url=https%3A%2F%2Fsites.google.com%2Fmyuwc.ac.za%2Fgalaxy-classification)](https://sites.google.com/myuwc.ac.za/galaxy-classification)
 
 ## Abstract
 Galaxy morphology classification plays a crucial role in understanding the formation and evolution of galaxies. Traditional methods for classifying galaxy morphology rely on human-expert knowledge and manual inspection, making them time-consuming and subjective. This study explores the application of unsupervised learning techniques for the automated classification of optical galaxy morphology.
