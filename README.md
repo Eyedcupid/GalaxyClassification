@@ -4,15 +4,6 @@
 ## Abstract
 Galaxy morphology classification plays a crucial role in understanding the formation and evolution of galaxies. Traditional methods for classifying galaxy morphology rely on human-expert knowledge and manual inspection, making them time-consuming and subjective. This study explores the application of unsupervised learning techniques for the automated classification of optical galaxy morphology.
 
-## Project Publications:
-- E. Fielding, C. N. Nyirenda and M. Vaccari, "The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques," 2022 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2022, pp. 1-6, doi: [10.1109/ICECET55527.2022.9872611](https://doi.org/10.1109/ICECET55527.2022.9872611).
-  - Repo: https://github.com/ezrafielding/galaxy-cluster
-- E. Fielding, C. N. Nyirenda and M. Vaccari, "A Comparison of Deep Learning Architectures for Optical Galaxy Morphology Classification," 2021 International Conference on Electrical, Computer and Energy Technologies (ICECET), 2021, pp. 1-5, doi: [10.1109/ICECET52533.2021.9698414](https://doi.org/10.1109/ICECET52533.2021.9698414).
-  - Repo: https://github.com/ezrafielding/zoobot-arch-comp
-
-## Supervised Learning
-The code, notebooks and logs associated with the supervised learning section of this project can be found in the ```supervised_learning``` directory.
-
 The Zoobot library can be found here: https://github.com/mwalmsley/zoobot
 
 The alternate versions of Zoobot used for the architecture comparison can be found [here](https://github.com/ezrafielding/zoobot-arch-comp).
