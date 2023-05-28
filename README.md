@@ -7,6 +7,11 @@ The Zoobot library can be found here: https://github.com/mwalmsley/zoobot
 
 The alternate versions of Zoobot used for the architecture comparison can be found [here](https://github.com/ezrafielding/zoobot-arch-comp).
 
+This project is a continuation of the project created by Ezra Fielding. 
+
+## Check Ezra Fielding's Project Publications:
+[Repo: ](https://github.com/ezrafielding/GalaxyClassification)
+
 ## Unsupervised Learning
 The code, notebooks and logs associated with the unsupervised learning section of this project can be found in the ```unsupervised_learning``` directory.
 The autoencoder Python files can be found there, along with the Jupyter Notebook used for k-means clustering.
