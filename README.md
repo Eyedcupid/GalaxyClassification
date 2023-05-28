@@ -14,7 +14,7 @@ Repo: [https://github.com/ezrafielding/GalaxyClassification](https://github.com/
 
 ## Unsupervised Learning
 The code, notebooks and logs associated with the unsupervised learning section of this project can be found in the ```unsupervised_learning``` directory.
-The autoencoder Python files can be found there, along with the Jupyter Notebook used for k-means clustering.
+The autoencoder Python files can be found there, along with the Jupyter Notebook used for clustering techniques.
 
 ## Data Prep
 The ```data_prep``` directory contains the Notebooks required for creating a working dataset.
