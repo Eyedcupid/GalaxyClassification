@@ -10,7 +10,7 @@ The alternate versions of Zoobot used for the architecture comparison can be fou
 This project is a continuation of the project created by Ezra Fielding. 
 
 ## Check Ezra Fielding's Project Publications:
-[Repo: ](https://github.com/ezrafielding/GalaxyClassification)
+[Repo: ](https://github.com/ezrafielding/GalaxyClassification.md)
 
 ## Unsupervised Learning
 The code, notebooks and logs associated with the unsupervised learning section of this project can be found in the ```unsupervised_learning``` directory.
