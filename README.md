@@ -1,4 +1,4 @@
-# The Classification of Optical Galaxy Morphology Using Unsupervised Learning Techniques
+# Comparative Analysis of Unsupervised Learning Techniques for Galaxy Morphology Classification
 
 ## Abstract
 Galaxy morphology classification plays a crucial role in understanding the formation and evolution of galaxies. Traditional methods for classifying galaxy morphology rely on human-expert knowledge and manual inspection, making them time-consuming and subjective. This study explores the application of unsupervised learning techniques for the automated classification of optical galaxy morphology.
